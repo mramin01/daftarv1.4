@@ -1,0 +1,22 @@
+/* استایل‌های اختصاصی تم Black-Mocha Glassmorphism برنامه دفتر (Daftar) */
+:root {
+  --bg-base: #0b0908;
+  --bg-elevated: #120e0c;
+  --glass-card: rgba(28, 22, 19, 0.74);
+  --border-warm: rgba(222, 184, 146, 0.13);
+  --accent-gold: #d4a373;
+  --accent-champagne: #e6ccb2;
+  --accent-bronze: #b07d4f;
+}
+body {
+  background-color: var(--bg-base);
+  color: #f5ebe6;
+  font-family: 'Vazirmatn', system-ui, sans-serif;
+  direction: rtl;
+}
+.glass-card {
+  background: var(--glass-card);
+  backdrop-filter: blur(24px);
+  border: 1px solid var(--border-warm);
+  border-radius: 22px;
+}

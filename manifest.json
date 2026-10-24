@@ -1,0 +1,17 @@
+{
+  "name": "دفتر | Daftar — فضای کار هوشمند شخصی و عملیاتی",
+  "short_name": "دفتر",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0908",
+  "theme_color": "#d4a373",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 100 100\"><rect width=\"100\" height=\"100\" rx=\"24\" fill=\"%23120e0c\"/><text x=\"50\" y=\"68\" font-size=\"55\" text-anchor=\"middle\" fill=\"%23d4a373\">د</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
